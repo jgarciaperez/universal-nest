@@ -4,19 +4,8 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/angular/universal-starter.git"
+    "url": "https://github.com/jgarciaperez/music-advertising.git"
   },
-  "contributors": [
-    "AngularClass <hello@angularclass.com>",
-    "PatrickJS <patrick@angularclass.com>",
-    "Jeff Whelpley <jeff@gethuman.com>",
-    "Jeff Cross <crossj@google.com>",
-    "Mark Pieszak <mpieszak84@gmail.com>",
-    "Jason Jean <jasonjean1993@gmail.com>",
-    "Fabian Wiles <fabian.wiles@gmail.com>",
-    "Kamil Mysliwiec <mail@kamilmysliwiec.com>",
-    "Michael Prentice <michael.prentice@devintent.com>"
-  ],
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -38,6 +27,7 @@
     "@angular/compiler": "~9.0.0",
     "@angular/core": "~9.0.0",
     "@angular/forms": "~9.0.0",
+    "@angular/localize": "^9.1.13",
     "@angular/platform-browser": "~9.0.0",
     "@angular/platform-browser-dynamic": "~9.0.0",
     "@angular/platform-server": "~9.0.0",
@@ -46,6 +36,7 @@
     "@nestjs/core": "^6.11.6",
     "@nestjs/ng-universal": "^3.0.0",
     "@nestjs/platform-express": "^6.11.6",
+    "@ng-bootstrap/ng-bootstrap": "^9.0.2",
     "@nguniversal/common": "9.0.0",
     "@nguniversal/express-engine": "9.0.0",
     "class-transformer": "^0.2.3",
